@@ -4,7 +4,6 @@ import './index.css';
 import 'bootstrap/scss/bootstrap.scss';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import * as yup from "yup"
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
